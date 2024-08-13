@@ -1,0 +1,26 @@
+body {
+	font-size: 22px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1.5;
+	background-color: papayawhip;
+
+	/* Named Color */
+	color: orangered;
+
+	/* RGB Color */
+	color: rgb(0, 122, 113);
+}
+
+p {
+	/* RGBA Color */
+	color: rgba(0, 0, 0, 0.5);
+
+	/* Hexadecimal Color */
+	color: #2252d8e7;
+
+	/* HSL Color */
+	color: hsl(183, 94%, 38%);
+
+	/* HSLA Color */
+	color: hsla(289, 80%, 27%, 0.792);
+}

@@ -1,0 +1,44 @@
+/* || RESET */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	/* vh (Relative Unit) */
+	min-height: 100vh;
+}
+
+header {
+	width: 50%;
+}
+
+h1 {
+	border: 2px dashed red;
+
+	width: 50%;
+	/* percent (Relative Unit) */
+	font-size: 3rem;
+	padding: 0.5em;
+}
+
+main {
+	/* rem (Relative Unit) */
+	font-size: 2rem;
+
+	/* vw (Relative Unit) */
+	width: 50vw;
+	background-color: skyblue;
+}
+
+p {
+	/* pixel (Absolute Unit) */
+	font-size: 16px;
+
+	/* em (Relative Unit) */
+	font-size: 2em;
+
+	/* ch (Relative Unit) */
+	width: 40ch;
+}
