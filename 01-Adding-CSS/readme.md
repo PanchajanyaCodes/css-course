@@ -4,6 +4,6 @@ There are three ways to add CSS:
 2. Internal CSS
 3. External CSS
 
-<!-- Specificity:  -->
+Specificity:
 
 Inline > Internal > External
