@@ -1,0 +1,28 @@
+/* font family */
+@import url("https://fonts.googleapis.com/css2?family=Moderustic:wght@300..800&display=swap");
+
+body {
+	padding: 10%;
+	font-family: "Moderustic", sans-serif;
+	font-size: 1.5rem;
+}
+
+/* input,
+button {
+	font: inherit;
+}
+ */
+
+p {
+	text-decoration: underline;
+	text-transform: lowercase;
+	text-align: center;
+	text-indent: 2em;
+
+	line-height: 1.5;
+	letter-spacing: 0.1em;
+	word-spacing: 0.5em;
+
+	font-weight: 100;
+	font-style: italic;
+}
