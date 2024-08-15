@@ -1,0 +1,25 @@
+body {
+	padding: 10%;
+	font-size: 1.5em;
+	font-family: "poppins", sans-serif;
+}
+
+a {
+	text-decoration: none;
+	cursor: pointer;
+	color: steelblue;
+}
+
+a:visited {
+	color: green;
+}
+
+a:hover,
+a:focus {
+	color: dodgerblue;
+	opacity: 0.6;
+}
+
+a:active {
+	color: red;
+}
