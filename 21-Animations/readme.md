@@ -12,3 +12,5 @@ transform => used to apply 2D or 3D transformations to elements, such as rotatin
 
 6. animation => Shorthand for, "animation-duration", "animation-timing-function", "animation-delay", "animation-iteration-count", "animation-direction", "animation-fill-mode" and animation name.
    EXAMPLE : animation: 5s ease-in-out 1s 5 normal forwards slide;
+
+NOTE: menu.html and menu.css contains the code Hamburger Menu with animations.
